@@ -2,7 +2,7 @@
   "name": "ga4gh-xena",
   "version": "1.0.0",
   "description": "FIXME: description",
-  "main": "index.js",
+  "main": "ga4gh_xena.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
